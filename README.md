@@ -8,13 +8,21 @@
 <h3 align="left">Linguagem e Ferramentas:</h3>
 
 ➡ Linguagens de programação (primária): Python e R.
+
 ➡ Linguagens de programação (secundária): HTML/CSS, Javascript.
+
 ➡ Banco de dados: Mysql.
+
 ➡ Mineração de Dados: Beautiful Soup e Spyder.
+
 ➡ Inteligencia Artificial: Scikit-Learn e TensorFlow.
+
 ➡ Processamento de Dados: Pandas e Numpy.
+
 ➡ Visualização de Dados: Matplotlib, Seaborn e Plotly.
+
 ➡ Análise de Redes Sociais: NetworkX e NXViz.
+
 ➡ Processamento de Linguagem Natural: NLTK e Spacy.
 
 
