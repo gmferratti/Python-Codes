@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, seja muito bem-vind@! 😃</h1>
-<h3 align="center"> Meu nome é Gustavo Ferratti,
-  \n Sou pesquisador, educador e cientista de dados</h3>
+<h3 align="center"> Meu nome é Gustavo Ferratti </h3>
+<h3 align="center> Sou pesquisador, educador e cientista de dados</h3>
 
 🌱 Atualmente estou aprendendo: **PLN e Text Mining em Python**
 👯 Procuro colaborar em: **Projetos de Ciências de Dados**
