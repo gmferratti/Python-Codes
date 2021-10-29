@@ -40,7 +40,7 @@
 <br>
 _____________________________________________________________________________________________________________________
 
-<h1> Repositório *Python Projects* </h1>
+<h1> Repositório <b>Python Projects</b> </h1>
 
 Organizei neste espaço meus projetos usando a linguagem Python. A seguir, uma breve explicação de cada pasta.
 
