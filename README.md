@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, seja muito bem-vind@! </h1>
+<h1 align="center"> Olá, boas vindas! </h1>
 <br>
 <h3 align="center"> Meu nome é Gustavo Ferratti 😃 <br> Sou pesquisador, educador e cientista de dados 🖥️</h3>
 <br>
