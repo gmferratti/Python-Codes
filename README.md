@@ -8,7 +8,7 @@
 - 👨‍💻 Meu projetos estão disponiveis em: [https://github.com/gmferratti/Python-Codes](https://github.com/gmferratti/Python-Codes)
 <br>
 
-<h3 align="left">Linguagem e Ferramentas:</h3>
+<h3 align="left">Linguagem e Ferramentas 🛠️</h3>
 
 ➡ Linguagens de programação (primárias): Python e R.
 
