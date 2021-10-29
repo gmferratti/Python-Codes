@@ -36,6 +36,7 @@
   <a href="https://www.linkedin.com/in/gmferratti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<br>
 _____________________________________________________________________________________________________________________
 
 <h1> Repositório Python Projects </h1>
