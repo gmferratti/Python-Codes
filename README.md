@@ -1,9 +1,10 @@
 <h1 align="center"> Olá, seja muito bem-vind@! 😃</h1>
 <h3 align="center"> Meu nome é Gustavo Ferratti, sou pesquisador, educador e cientista de dados</h3>
 
-- 🌱 Atualmente estou aprendendo: **PLN e Text Mining em Python**
-- 👯 Procuro colaborar em: **Projetos de Ciências de Dados**
-- 👨‍💻 Meu projetos estão disponiveis em: [https://github.com/gmferratti/Python-Codes](https://github.com/gmferratti/Python-Codes)
+
+🌱 Atualmente estou aprendendo: **PLN e Text Mining em Python**
+👯 Procuro colaborar em: **Projetos de Ciências de Dados**
+👨‍💻 Meu projetos estão disponiveis em: [https://github.com/gmferratti/Python-Codes](https://github.com/gmferratti/Python-Codes)
 
 <h3 align="left">Linguagem e Ferramentas:</h3>
 
@@ -35,18 +36,18 @@
 
 _____________________________________________________________________________________________________________________
 
-<h1> Conteúdo deste Repositório (Python Projects) </h1>
+<h1> Repositório Python Projects </h1>
 
 Organizei neste espaço meus projetos usando a linguagem Python. A seguir, uma breve explicação de cada pasta.
 
-## 1. Cursos
+## 1. Cursos ✍️
 Scripts que eu fiz como desafios de cursos livres oferecidos por plataformas como Datacamp, Coursera, Alura, etc.
 
-## 2. Livros
+## 2. Livros 📚
 Scripts que fiz como exercícios ao estudar os livros das Editoras O'Reilly, Novatec e Alta Books sobre Python.
 
-## 3. Aulas
+## 3. Aulas 👨‍🏫
 Material utilizado para ensinar alunos sobre a minha linguagem de programação favorita.
 
-## 4. Projetos Paralelos
+## 4. Projetos Paralelos 🛹
 Alguns projetos pessoais que desenvolvi enquanto não estava seguindo nenhum roteiro de estudos específico.
