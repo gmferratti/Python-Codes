@@ -1,8 +1,10 @@
-<h1 align="center"> Olá, seja muito bem-vind@! 😃</h1>
-<h3 align="center"> Meu nome é Gustavo Ferratti <br> Sou pesquisador, educador e cientista de dados</h3>
+<h1 align="center"> Olá, seja muito bem-vind@! </h1>
+<h3 align="center"> Meu nome é Gustavo Ferratti 😃 <br> Sou pesquisador, educador e cientista de dados</h3>
 
 🌱 Atualmente estou aprendendo: **PLN e Text Mining em Python**
+
 👯 Procuro colaborar em: **Projetos de Ciências de Dados**
+
 👨‍💻 Meu projetos estão disponiveis em: [https://github.com/gmferratti/Python-Codes](https://github.com/gmferratti/Python-Codes)
 
 <h3 align="left">Linguagem e Ferramentas:</h3>
